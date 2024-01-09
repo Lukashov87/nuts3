@@ -1,0 +1,41 @@
+*,
+*::after,
+*::before{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+   
+        
+.wrapper{background-color: hwb(123 7% 39%)}
+width: 100% ;
+.inner1{
+    background-image:url("../img/fon1.png");
+        max-width:100%;
+        background-repeat: no-repeat;
+        background-size:100%;
+        margin: 2% auto;
+}
+.inner2{
+    background:rgb(rgb(236, 203, 15), green, blue);
+    background:linear-gradient(196deg, rgba(236,203,15,1) 0%, rgb(150, 201, 11) 70%);
+    margin: 2% auto;
+}
+.inner3{
+    background-image: url("../img/fon2.jpg");
+    max-width:100%;
+    background-size:100%;
+    margin: 2% auto;
+}
+.inner4{
+    background-image: url("../img/fon3.png");
+    background-repeat:repeat-y;
+    background-position:left;
+    margin: 2% auto;
+
+}
+.inner5{
+    margin: 2% auto;
+    background: rgb(2,0,36);
+    background: linear-gradient(315deg, rgba(2,0,36,1) 0%, rgba(221,212,27,0.7231267507002801) 30%, rgba(202,222,37,1) 92%);; 30%, rgba(202,222,37,1) 92%);
+}
