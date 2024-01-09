@@ -7,7 +7,7 @@
     box-sizing: border-box;
    
         
-.wrapper{background-color: hwb(123 7% 39%)
+.wrapper{background-color: hwb(123 7% 39%);
 max-width: 80% ;
     margin: 0 auto;
          }
