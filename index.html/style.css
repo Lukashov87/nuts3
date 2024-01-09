@@ -7,8 +7,10 @@
     box-sizing: border-box;
    
         
-.wrapper{background-color: hwb(123 7% 39%)}
-width: 100% ;
+.wrapper{background-color: hwb(123 7% 39%)
+width: 80% ;
+    margin: 0 auto;
+         }
 .inner1{
     background-image:url("../img/fon1.png");
         max-width:100%;
