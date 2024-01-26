@@ -12,7 +12,7 @@ max-width: 80% ;
     margin: 0 auto;
          }
 .inner1{
-    background-image:url("../img/fon1.png");
+    background-image:url("https://github.com/Lukashov87/nuts3/blob/main/index.html/img/fon1.png");
         max-width:100%;
         background-repeat: no-repeat;
         background-size:100%;
@@ -24,13 +24,13 @@ max-width: 80% ;
     margin: 2% auto;
 }
 .inner3{
-    background-image: url("../img/fon2.jpg");
+    background-image: url("https://github.com/Lukashov87/nuts3/blob/main/index.html/img/fon2.jpg");
     max-width:100%;
     background-size:100%;
     margin: 2% auto;
 }
 .inner4{
-    background-image: url("../img/fon3.png");
+    background-image: url("../img/fon3.pnghttps://github.com/Lukashov87/nuts3/blob/main/index.html/img/fon3.png");
     background-repeat:repeat-y;
     background-position:left;
     margin: 2% auto;
